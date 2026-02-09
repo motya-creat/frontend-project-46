@@ -1,6 +1,3 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/motya-creat/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/motya-creat/frontend-project-46/actions)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=c4c4c4&lines=Вычислитель+Отличий)](https://git.io/typing-svg)
 
 ## Установка зависимостей
