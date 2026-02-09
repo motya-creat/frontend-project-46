@@ -7,7 +7,7 @@ const getPath = (filepath) => path.resolve(process.cwd(), filepath)
 
 const getFileData = (filepath) => {
     const format = getFormat(filepath)
-    const data = fstat.readFileSync(filepath, {encoding: 'utf-8'})
+    const data = fs.readFileSync(filepath, {encoding: 'utf-8'})
     
     return parser(data, format)
 }
